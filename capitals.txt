@@ -1,0 +1,11 @@
+Poland/Warsaw
+Gerbany/Berlin
+UK/London
+France/Paris
+Spain/Madrid
+Italy/Rome
+Portugal/Lisbon
+Russia/Moscow
+UK/London
+$$$$
+Ireland/Dublin

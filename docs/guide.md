@@ -7,3 +7,7 @@
  4. Rename the file to *'con_parameters.py'* (delete that *'sample'* part)
  5. Run 'prep.py' successfully.
  6. Run 'app.py' and follow the instructions.
+
+**Main files:**
+ * *menu.py*- with function menu() manages methods used in data classes in a more "user friendly" way, runs perticular code from given input
+ * *app.py*- runs menu() from *menu.py*

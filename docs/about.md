@@ -35,7 +35,7 @@ From the Python perspective, I'd probably use scraping from any web dictionary.
 
 **6.Is there a way to see how the code works sequentially?**
 
-I've added logging there so after every run of the program info about how everything went from the start to finish will be stored in file called 'logs.txt'
+I've added logging there so after every run of the program info about how everything went from the start to finish will be stored in file called *logs.txt*
 (it will be automatically created after the first implementation of *app.py*.
 
 **7.Is the program errors free?**

@@ -25,10 +25,19 @@ Python and user's inputs and SQL database. Without it (the database) user's stud
 **4.Is it better than ANKI?**
 
 I'd say that it's a simplification of the ANKI app as it does not have all of ANKI's features (for example single card parameters can only be seen through SQL- 
-they cannot be visualized by the user). What makes it better for me is the fact I can modify the program to suits my studying preferences more.
+they cannot be visualized by the user). What makes Python-Flashcards better for me is the fact I can modify the program to suit my studying preferences.
 
 **5.Are there any plans on updating the project?**
 
 I'm thinking about the possibility to add only the fronts of cards and translating them to a given language automatically. For example, you have a deck of polish-english words and 
 you come across a new polish word 'zegar'- it can be received by the program, translated to english (to 'clock') and added to the deck as a card.
 From the Python perspective, I'd probably use scraping from any web dictionary.
+
+**6.Is there a way to see how the code works sequentially?**
+
+I've added logging there so after every run of the program info about how everything went from the start to finish will be stored in file called 'logs.txt'
+(it will be automatically created after the first implementation of *app.py*.
+
+**7.Is the program errors free?**
+
+I've tried my best to take care of every possible error (especially the input ones) but as it's a private project, I did not spend too much time thinking about what else can go wrong while running the code. Inform me about every error you stumbled across- I'll try fixing it.
